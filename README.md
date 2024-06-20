@@ -13,4 +13,4 @@ The description of the labels and the data collection process can be found in th
 
 Please cite :
 
-Oluwatoba Fabunmi, Katja Holtta-Otto, Saman Halgamuge and Daniel Beck,/n 2024,/n "Large Language Models for Predicting Empathic Accuracy between a Designer and User"
+Oluwatoba Fabunmi, Katja Holtta-Otto, Saman Halgamuge and Daniel Beck,\n 2024,\n "Large Language Models for Predicting Empathic Accuracy between a Designer and User"
