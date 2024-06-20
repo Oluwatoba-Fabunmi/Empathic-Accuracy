@@ -1,5 +1,5 @@
 # Empathic-Accuracy
-The #dataset# contains the data used to evaluate the designer’s empathic understanding during user interviews using the EA measure. 
+The dataset contains the data used to evaluate the designer’s empathic understanding during user interviews using the EA measure. 
 
 This data was collected from user interview sessions. The empathic accuracy dyadic interaction approach was used to carry out the empathic task. This approach evaluates the designer’s empathic  ability with respect to the specific user in the interview. The process of data collection is decribed below:
 
@@ -13,3 +13,4 @@ The description of the labels and the data collection process can be found in th
 
 Please cite :
 
+Oluwatoba Fabunmi, Katja Holtta-Otto, Saman Halgamuge and Daniel Beck,/n 2024,/n "Large Language Models for Predicting Empathic Accuracy between a Designer and User"
