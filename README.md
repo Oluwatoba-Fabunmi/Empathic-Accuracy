@@ -1,4 +1,4 @@
-![image](https://github.com/Oluwatoba-Fabunmi/Empathic-Accuracy/assets/85127259/e7d7b5cf-af67-4ba9-9fcc-7e2406447fe3)![image](https://github.com/Oluwatoba-Fabunmi/Empathic-Accuracy/assets/85127259/330da0d7-ba31-4160-845b-cea13ceca7ed)# Empathic-Accuracy
+# Empathic-Accuracy
 The dataset contains the data used to evaluate the designer’s empathic understanding during user interviews using the EA measure. 
 
 This data was collected from user interview sessions. The empathic accuracy dyadic interaction approach was used to carry out the empathic task. This approach evaluates the designer’s empathic  ability with respect to the specific user in the interview. The process of data collection is decribed below:
