@@ -13,4 +13,4 @@ The description of the labels and the data collection process can be found in th
 
 If you use or find this repository helpful, please cite :
 
-Oluwatoba Fabunmi, Saman Halgamuge Daniel Beck and Katja Holtta-Otto, 2024, "Large Language Models for Predicting Empathic Accuracy between a Designer and User".
+Oluwatoba Fabunmi, Saman Halgamuge, Daniel Beck and Katja Holtta-Otto, 2024, "Large Language Models for Predicting Empathic Accuracy between a Designer and User".
